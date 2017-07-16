@@ -1,0 +1,12 @@
+
+python manage.py runserver
+
+python manage.py migrate
+
+
+python manage.py createsuperur
+Username (leave blank to use 'yixiaohui'): wyq
+Email address: wyq20100695@163.com
+Password: ydyhm123
+Password (again): ydyhm123
+Superuser created successfully.
